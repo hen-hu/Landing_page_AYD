@@ -1,0 +1,6 @@
+{
+  "name": "Catálogo Virtual A&D Químicos y Diversos S.A.",
+  "description": "Catálogo oficial interactivo de productos de limpieza y desinfección A&D Químicos: marcas Lesly, Clorosur, Margot, Mariana, Zambo y Rayo con cotizador y especificaciones técnicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
